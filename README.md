@@ -1,16 +1,16 @@
 # **Homework-Test**
-[Bigpay](refrences/Bigpay.jfif)
+![Bigpay](./images/Bigpay.jfif)
 
 Test before submitting home work
 
 ---
 
-## First try
+## **First try**
 sdfhsdhaJKSDHJKASHDJKHASJKDHHDAsdhaJKSHDJK
 
 ---
 ---
-## directory
+## **directory**
 
 [code](code)
 
@@ -26,3 +26,10 @@ sdfhsdhaJKSDHJKASHDJKHASJKDHHDAsdhaJKSHDJK
 print("Nice to meet you")
 ```
 
+---
+
+### **Big Start**
+asdfasdfnklasdhfklhas. >"SFWERWRWER"
+> "THIS IS QUOTE FROM WEBSITE"
+
+`TEXT OR CODE SNIPPET`
